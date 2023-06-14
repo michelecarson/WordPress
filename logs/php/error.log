@@ -44,3 +44,4 @@
 [14-Jun-2023 16:12:00 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Carson\Local Sites\michelecarson-wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 905
 [14-Jun-2023 16:14:38 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Carson\Local Sites\michelecarson-wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 905
 [14-Jun-2023 19:12:42 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Carson\Local Sites\michelecarson-wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[14-Jun-2023 20:27:23 UTC] PHP Warning:  copy(C:/Users/Carson/Local Sites/michelecarson-wordpress/wp-json/wp/v2/pages/64/index.html): Failed to open stream: No such file or directory in C:\Users\Carson\Local Sites\michelecarson-wordpress\app\public\wp-content\plugins\simply-static\src\tasks\class-ss-transfer-files-locally-task.php on line 91
